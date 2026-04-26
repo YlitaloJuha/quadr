@@ -1,4 +1,4 @@
-![Quadr flight analysis](images/AppPreview_small.png)
+![Quadr flight analysis](images/AppPreview_wide.png)
 # Quadr.
 
 iPadOS app for FPV drone pilots.
